@@ -1,0 +1,4 @@
+# テスト用（Lambda には載せない）
+boto3==1.44.9
+moto[dynamodb]==5.2.5
+pytest==9.2.0
